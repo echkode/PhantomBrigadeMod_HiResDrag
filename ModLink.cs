@@ -18,7 +18,7 @@ namespace EchKode.PBMods.HiResDrag
 			// Uncomment to get a file on the desktop showing the IL of the patched methods.
 			// Output from FileLog.Log() will trigger the generation of that file regardless if this is set so
 			// FileLog.Log() should be put in a guard.
-			//EnableHarmonyFileLog();
+			// EnableHarmonyFileLog();
 		}
 	}
 }
